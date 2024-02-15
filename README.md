@@ -13,7 +13,7 @@ on your local system:
 
 Clone both frontend and backend Repositories
 git clone https://github.com/carolCase/backend.git
-git clone
+git clone https://github.com/carolCase/gameNative.git
 Navigate to the Project Directory
 cd  
 Install Dependencies:
